@@ -10,7 +10,9 @@ public class GitJava {
   public static void main(String[] args) {
     System.out.println("Java Program statred.. ");
     myMethod(); 
-    System.out.println("my new method of java for git hub");
+    System.out.println("my new method of java for git hub");  
+
+    System.out.println("Added one more comment");
     
   }
 
