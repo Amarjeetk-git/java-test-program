@@ -1,3 +1,4 @@
+import java.sql.Date;
 import java.util.Properties;
 
 public class GitJava {
@@ -13,6 +14,8 @@ public class GitJava {
     System.out.println("my new method of java for git hub");  
 
     System.out.println("Added one more comment");
+
+    System.out.println (new Date());
     
   }
 
